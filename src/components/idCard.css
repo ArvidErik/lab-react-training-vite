@@ -1,0 +1,21 @@
+.idCard-cont {
+    display: flex;
+    justify-content: start;
+    border: 1px solid black;
+    width: 50%;
+    margin: 0.4rem;
+    padding: 0.4rem;
+}
+
+img {
+    height: 180px;
+}
+
+.id-detail {
+    text-align: start;
+    margin-left: 0.3rem;
+}
+
+.id-detail p{
+    margin: 0.2rem;
+}
